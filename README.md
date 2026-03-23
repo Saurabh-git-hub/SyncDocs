@@ -2,7 +2,7 @@
 # <div align="center">SyncDocs 📝
 
 <div><div align="center">
-**SyncDocs** is a modern, real-time collaborative document editor built with Next.js. Create, edit, and collaborate on documents seamlessly with live updates, comments, and rich text formatting.
+SyncDocs is a modern, real-time collaborative document editor built with Next.js. Create, edit, and collaborate on documents seamlessly with live updates, comments, and rich text formatting.
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## <div align="center"> [Demo 🎬 video](https://drive.google.com/file/d/1dYs58wUx4s99sNs4Bbw5On9qVKMg18Hz/view?usp=sharing)
+## <div align="center"> [🎬 Demo Video](https://drive.google.com/file/d/1dYs58wUx4s99sNs4Bbw5On9qVKMg18Hz/view?usp=sharing)  / [ 🌐 Live Demo](https://sync-docs-web.vercel.app/)
 
 ![SyncDocs Home](public/assets/images/home.png)
 
@@ -25,7 +25,7 @@
   Your browser does not support the video tag.
 </video>
 
-- [Live Demo](https://sync-docs-web.vercel.app/)
+
 
 ## ✨ Features
 
