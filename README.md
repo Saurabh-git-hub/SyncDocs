@@ -16,6 +16,8 @@
 
 ## <div align="center">Demo 🎬
 
+![SyncDocs Home](public/assets/images/home.png)
+
 <video width="100%" controls>
   <source src="/public/assets/images/SyncDocs-VIDEO.mp4" type="video/mp4">
   Your browser does not support the video tag.
