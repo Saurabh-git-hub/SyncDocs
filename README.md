@@ -13,10 +13,15 @@
  </div>
 
 ---
-## <div align="center">Demo 🎬
-![Project Demo](/public/awarded-website-gif.gif)
 
-- [Live-Link](https://awarded-website-three.vercel.app/)
+## <div align="center">Demo 🎬
+
+<video width="100%" controls>
+  <source src="/public/assets/images/SyncDocs-VIDEO.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+- [Live Demo](https://sync-docs-web.vercel.app/)
 
 ## ✨ Features
 
@@ -61,7 +66,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Saurabh-git-hub/SyncDocs.git
+   git clone https://github.com/Saurabh-git-hub/SyncDocs
    cd SyncDocs
    ```
 
