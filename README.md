@@ -4,6 +4,8 @@
 <div><div align="center">
 **SyncDocs** is a modern, real-time collaborative document editor built with Next.js. Create, edit, and collaborate on documents seamlessly with live updates, comments, and rich text formatting.
 
+---
+
 [![Next.js](https://img.shields.io/badge/Next.js-14.2.5-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -14,7 +16,7 @@
 
 ---
 
-## <div align="center">Demo 🎬
+## <div align="center"> [Demo 🎬 video](https://drive.google.com/file/d/1dYs58wUx4s99sNs4Bbw5On9qVKMg18Hz/view?usp=sharing)
 
 ![SyncDocs Home](public/assets/images/home.png)
 
