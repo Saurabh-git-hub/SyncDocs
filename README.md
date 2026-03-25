@@ -243,9 +243,14 @@ in the Software without restriction.
 
 ### Connect
 
+### Connect With Me
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://saurabh-s-w-e.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Saurabh-git-hub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhchauhan2000/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/saurabh_10_12)
+
+</div>
 
 </div>
 
